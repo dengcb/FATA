@@ -24,8 +24,7 @@ Taylor Otwell
 
 © 著作权归作者所有
 
----
-
-Via： https://my.oschina.net/zgldh/blog/389246 ***(收集只是为了更好阅读，感谢译者！)***
+Via： [https://my.oschina.net/zgldh/blog/389246](https://my.oschina.net/zgldh/blog/389246) _**\(收集只是为了更好阅读，感谢译者！\)**_
 
 > 提示：Git clone 到本地用 Gitbook 阅读体验更佳。
+
